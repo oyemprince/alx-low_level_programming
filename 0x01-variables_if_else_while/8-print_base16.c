@@ -2,8 +2,6 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: /**
- * main - main block
  * Description: prints all single digit numbers of base 10
  * Return: 0
  */
